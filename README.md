@@ -1,10 +1,10 @@
-# 2LEIC11T5 - UniTicket
+# UniTicket - A contribution to the Uni App
 
 ## UniTicket Development Report
 
 Welcome to the documentation pages of the UniTicket
 
-You can find here detailed information about the product (or mini-app or module), from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of RUP): 
+You can find here detailed information about the product (or mini-app/module), from a high-level vision to some low-level implementation decisions, and a kind of Software Development Report, organized by discipline (as of RUP): 
 
 * Business modeling 
   * [Product Vision](docs/ProductVision.md)
